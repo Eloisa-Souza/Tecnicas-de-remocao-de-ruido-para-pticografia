@@ -3,12 +3,12 @@ Reconstrução de Dados de Pticografia
   
 ## Índice 
 
-* [📝 Descrição do Projeto](#descrição-do-projeto)
+* [📝 Detalhes do Projeto](#detalhes-do-projeto)
 * [📁 Acesso ao projeto](#acesso-ao-projeto)
 * [👩‍💻 Desenvolvedores do Projeto](#desenvolvedores-do-projeto)
 * [📚 Referências](#referências)
 
-## 📝Descrição do Projeto
+## 📝Detalhes do Projeto
 ## 📁Acesso ao projeto
 
 Para ver o projeto você pode acessar os arquivos abaixo:
