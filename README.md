@@ -9,6 +9,9 @@ Reconstrução de Dados de Pticografia
 * [📚 Referências](#referências)
 
 ## 📝Detalhes do Projeto
+
+A pticografia (do inglês, ptychography) é uma técnica de imageamento por difração, na qual é realizada a varredura da amostra através da iluminação por um feixe. Dessa forma, o objetivo desse projeto é utilizar o algoritmo de PIE, além de suas variações (ePIE e rPIE) para a recuperação de fase. Em uma etapa posterior, será implementado um algoritmo denoising para a remoção de ruídos.
+
 ## 📁Acesso ao projeto
 
 Para ver o projeto você pode acessar os arquivos abaixo:
