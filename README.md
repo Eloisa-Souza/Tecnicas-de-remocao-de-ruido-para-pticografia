@@ -30,6 +30,8 @@ Para ver o projeto você pode acessar os arquivos abaixo:
 
 ## 📚Referências
 
+# PIE
+
 [1] JACOBSEN, Chris. X-ray microscopy. Cambridge: Cambridge University Press, 2020. \textbf{(Advances in Microscopy and Microanalysis)}. DOI: https://doi.org/10.1017/9781139924542
 
 [2] KONIJNENBERG, S. An introduction to the theory of ptychographic phase retrieval methods. \textbf{Advanced Optical Technologies}, v. 6, n. 6, p. 423–438, 2017. DOI: https://doi.org/10.1515/aot-2017-0049
