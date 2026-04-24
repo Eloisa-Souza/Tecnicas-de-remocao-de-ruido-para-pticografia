@@ -12,8 +12,10 @@ Reconstrução de Dados de Pticografia
 ## 📁Acesso ao projeto
 
 Para ver o projeto você pode acessar os arquivos abaixo:
-- [Relatório do Projeto]()
-- [Códigos desenvolvidos]()
+- [Relatório parcial do Projeto]()
+- [Relatório final do Projeto]()
+- [Código PIE]()
+- [Código filtro]()
 - [Resultados Obtidos]()
 
 ## 👩‍💻Desenvolvedores do Projeto
