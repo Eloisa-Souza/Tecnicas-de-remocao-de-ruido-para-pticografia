@@ -14,7 +14,7 @@ Reconstrução de Dados de Pticografia
 Para ver o projeto você pode acessar os arquivos abaixo:
 - [Relatório parcial do Projeto]()
 - [Relatório final do Projeto]()
-- [Código PIE]()
+- [Código PIE](https://github.com/Eloisa-Souza/Tecnicas-de-remocao-de-ruido-para-pticografia/blob/main/IP_IV_PIE_ePIE_rPIE.ipynb)
 - [Código filtro]()
 - [Resultados Obtidos]()
 
