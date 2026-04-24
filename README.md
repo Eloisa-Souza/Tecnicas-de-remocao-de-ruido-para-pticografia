@@ -36,6 +36,6 @@ Para ver o projeto você pode acessar os arquivos abaixo:
 
 [2] KONIJNENBERG, S. An introduction to the theory of ptychographic phase retrieval methods. \textbf{Advanced Optical Technologies}, v. 6, n. 6, p. 423–438, 2017. DOI: https://doi.org/10.1515/aot-2017-0049
 
-[3] MIAO, Jianwei. Computational microscopy with coherent diffractive imaging and ptychography. \textbf{Nature}, v. 637, p. 281-295, 2025. Doi: https://doi.org/10.1038/s41586-024-08278-z
+[3]DIEROLF, Martin. Ptychographic X-ray computed tomography at the nanoscale. Nature, v. 467, p. 436-439, 2010. DOI: https://doi.org/10.1038/nature09419
 
 [4] VAN DER WALT, S. et al. scikit-image: image processing in Python.\textbf{PeerJ}, v. 2, e453, 2014. DOI: https://doi.org/10.7717/peerj.453
