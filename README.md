@@ -10,7 +10,22 @@ Reconstrução de Dados de Pticografia
 
 ## 📝Detalhes do Projeto
 
-A pticografia (do inglês, ptychography) é uma técnica de imageamento por difração, na qual é realizada a varredura da amostra através da iluminação por um feixe. Dessa forma, o objetivo desse projeto é utilizar o algoritmo de PIE, além de suas variações (ePIE e rPIE) para a recuperação de fase. Em uma etapa posterior, será implementado um algoritmo denoising para a remoção de ruídos.
+A pticografia é uma técnica de imageamento por difração que possibilita a reconstrução da fase da
+imagem a partir de padrões de difração obtidos através da varredura de regiões de uma amostra. Nessa
+técnica, ocorre a interação entre a onda incidente (probe), e o objeto, gerando uma onda de saída em que
+a fase é perdida durante a detecção. O PIE (do inglês, Ptychographical Iterative Engine) e suas variações,
+o ePIE (extended PIE) e o rPIE (regularized PIE), são algoritmos que possibilitam a recuperação da fase
+em diferentes condições experimentais. No entanto, os padrões de difração medidos são contaminados
+por diferentes fontes de ruído, impactando na qualidade da reconstrução da imagem. Neste trabalho,
+foram considerados os ruídos de Poisson e Gaussiano, os quais representam, respectivamente, ruídos
+relacionados à contagem de fótons e ruídos da medida do detector. Assim, para reduzir os efeitos desses
+ruídos e preservar as estruturas das imagens reconstruídas, foi utilizado o filtro guiado (guided filter).
+Essa técnica realiza a suavização dos ruídos preservando as bordas. Os resultados obtidos mostraram que
+o algoritmo rPIE apresentou um desempenho melhor na reconstrução da fase quando comparado ao PIE
+e ao ePIE. Além disso, o filtro guiado foi aplicado de duas maneiras distintas, sendo elas (I) diretamente
+às imagens afetadas pelos ruídos, com o objetivo de avaliar a capacidade de redução de ruído e (II)
+implementado junto ao rPIE. Os resultados indicam que a implementação do filtro guiado pode auxiliar
+na reconstrução de dados ruidosos, mas sua eficiência depende dos parâmetros utilizados.
 
 ## 📁Acesso ao projeto
 
