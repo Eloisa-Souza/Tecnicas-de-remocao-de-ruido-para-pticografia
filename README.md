@@ -19,7 +19,6 @@ Para ver o projeto você pode acessar os arquivos abaixo:
 - [Relatório final do Projeto]()
 - [Código PIE](https://github.com/Eloisa-Souza/Tecnicas-de-remocao-de-ruido-para-pticografia/blob/main/IP_IV_PIE_ePIE_rPIE.ipynb)
 - [Código filtro]()
-- [Resultados Obtidos]()
 
 ## 👩‍💻Desenvolvedores do Projeto
 
@@ -30,12 +29,22 @@ Para ver o projeto você pode acessar os arquivos abaixo:
 
 ## 📚Referências
 
-#### PIE
-
 [1] JACOBSEN, Chris. X-ray microscopy. Cambridge: Cambridge University Press, 2020. \textbf{(Advances in Microscopy and Microanalysis)}. DOI: https://doi.org/10.1017/9781139924542
 
 [2] KONIJNENBERG, S. An introduction to the theory of ptychographic phase retrieval methods. \textbf{Advanced Optical Technologies}, v. 6, n. 6, p. 423–438, 2017. DOI: https://doi.org/10.1515/aot-2017-0049
 
-[3]DIEROLF, Martin. Ptychographic X-ray computed tomography at the nanoscale. Nature, v. 467, p. 436-439, 2010. DOI: https://doi.org/10.1038/nature09419
+[3] DIEROLF, Martin. Ptychographic X-ray computed tomography at the nanoscale. \textbf{Nature}, v. 467, p. 436-439, 2010. DOI:  https://doi.org/10.1038/nature09419
 
 [4] VAN DER WALT, S. et al. scikit-image: image processing in Python.\textbf{PeerJ}, v. 2, e453, 2014. DOI: https://doi.org/10.7717/peerj.453
+
+[5] HE, Kaiming; SUN, Jian; TANG, Xiaoou. Guided image filtering. IEEE Transactions on Pattern Analysis and Machine Intelligence, v. 35, n. 6, p. 1397–1409, jun. 2013. DOI: 10.1109/TPAMI.2012.213
+
+[6] QIAO, Ziling; WEN, Xiu; ZHOU, Xuyang; QIN, Feng; LIU, Shutian; GAO, Bin; LIU, Wei; CHI, Dazhao; LIU, Zhengjun. Adaptive iterative guided filtering for suppressing background noise in ptychographical imaging. Optics and Lasers in Engineering, v. 160, art. 107233, jan. 2023. DOI: 10.1016/j.optlaseng.2022.107233.
+
+[7] HUANG, Mingsheng; ZHU, Yanghang; DUAN, Qingwu; ZHU, Yaohua; JIANG, Jingyu; ZHANG, Yong. Adaptive Guided Filtering and Spectral-Entropy-Based Non-Uniformity Correction for High-Resolution Infrared Line-Scan Images. Sensors, v. 25, n. 14, art. 4287, 2025. DOI: 10.3390/s25144287.
+
+[8] RODENBURG, John; MAIDEN, Andrew. Ptychography. In: HAWKES, Peter W.; SPENCE, John C. H. (ed.). Springer Handbook of Microscopy. Cham: Springer, 2019. p. 819–904. DOI: {10.1007/978-3-030-00069-1\_17}
+
+[9] ABE, Masaki; TAKAZAWA, Shuntaro; UEMATSU, Hideshi; SASAKI, Yuhei; OKAWA, Naru; ISHIGURO, Nozomu; TAKAHASHI, Yukio. Guided-image-filtering-assisted phase retrieval for amplitude reconstruction in single-frame coherent diffraction imaging. Optica, v. 11, n. 12, p. 1832–1840, dez. 2024. DOI: 10.1364/OPTICA.537748.
+
+[10] MAIDEN, Andrew; JOHNSON, Daniel; LI, Peng. Further improvements to the ptychographical iterative engine. Optica, v. 4, n. 7, p. 736–745, jul. 2017. DOI: 10.1364/OPTICA.4.000736
