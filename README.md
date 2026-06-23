@@ -30,8 +30,6 @@ na reconstrução de dados ruidosos, mas sua eficiência depende dos parâmetros
 ## 📁Acesso ao projeto
 
 Para ver o projeto você pode acessar os arquivos abaixo:
-- [Relatório parcial do Projeto](https://github.com/Eloisa-Souza/Tecnicas-de-remocao-de-ruido-para-pticografia/blob/main/Relatorio_Parcial_IP_IV_DADOS_Eloisa_e_Emanuel.pdf)
-- [Relatório final do Projeto]()
 - [Código PIE](https://github.com/Eloisa-Souza/Tecnicas-de-remocao-de-ruido-para-pticografia/blob/main/IP_IV_PIE_ePIE_rPIE.ipynb)
 - [Código filtro]()
 
